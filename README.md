@@ -1,2 +1,3 @@
 # npm-clasp
-npm i -g clasp
+
+An alias for [`@google/clasp`](https://github.com/google/clasp)
